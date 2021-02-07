@@ -1,0 +1,90 @@
+.container{
+    margin-bottom: 100px;
+}
+
+.pink-bg{
+    background-color: #FCEAE8;
+    border-radius: 13px;
+}
+
+.carousel-item{
+    padding: 40px;
+}
+
+.price{
+    color:#FF136F;
+}
+
+.buy-button{
+    background-image: linear-gradient(to bottom, #FF4881 10%, #FF2077 90%);
+    border-radius: 7px;
+    border: none;
+    color: #FFF;
+    padding: 10px 25px;
+    margin-top: 12px;
+}
+
+.cat1{
+    background-color: orange;
+}
+
+.cat2{
+    background-color: violet
+}
+
+.cat3{
+    background-color: blue;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+#cobe img{
+    width: 100px;
+}
+
+#cobe h1{
+    color: #FFF;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+
+.card-footer{
+    border: none;
+    background-color: #FFF;
+}
+
+#subscribe{
+    height: 300px;
+}
+
+.email-input{
+    padding: 10px 25px;
+    border: none;
+    border-radius: 7px;
+}
+
+.submit-buttom{
+    background-image: linear-gradient(to bottom, #FF4881 10%, #FF2077 90%);
+    border-radius: 7px;
+    border: none;
+    color: #FFF;
+    padding: 10px 25px;
+ 
+}
+
+#get{
+    color: gray;
+}
+footer{
+    text-align: center;
+    
+}
+#category{
+    padding-bottom: 20px;
+}
